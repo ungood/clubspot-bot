@@ -1,0 +1,6 @@
+name: clubspot-bot
+description: A set of tools for automating management of Clubspot accounts.
+runtime:
+  name: nodejs
+  options:
+    packagemanager: npm

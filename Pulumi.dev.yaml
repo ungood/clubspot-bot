@@ -1,0 +1,3 @@
+config:
+  gcp:project: cyc-clubspot-bot-dev
+  gcp:region: us-west1
